@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html lang="en">
 <!-- 
-su che-->
+su-->
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Login with Facebook in CodeIgniter by CodexWorld</title>
@@ -32,7 +32,6 @@ h1{
 .fb_box .image{ text-align:center;}
 </style>
 </head>
-<body>
 
 <?php
 if(!empty($authUrl)) {
