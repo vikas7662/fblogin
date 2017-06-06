@@ -1,7 +1,14 @@
 <!DOCTYPE HTML>
 <html lang="en">
 <!-- 
+<<<<<<< HEAD
 su-->
+=======
+su che-->
+	
+	
+	asdsadas;kdjs;ad;sa
+>>>>>>> d0f86726db2afd968b0a8670cf5e3e04957343ff
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Login with Facebook in CodeIgniter by CodexWorld</title>
