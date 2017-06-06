@@ -56,5 +56,5 @@ if(!empty($authUrl)) {
 </div>
 <?php } ?>
 </body>
-<!-- Changes by vikas  --><!-- Changes by vikas  --><!-- Changes by vikas  --><!-- Changes by vikas  --><!-- Changes by vikas  --><!-- Changes by vikas  --><!-- Changes by vikas  -->
+<!-- Changes by vikas  -->
 </html>
