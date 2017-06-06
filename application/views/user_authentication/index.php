@@ -32,7 +32,12 @@ h1{
 .fb_box .image{ text-align:center;}
 </style>
 </head>
+<<<<<<< HEAD
 
+=======
+<body>
+<!-- che -->
+>>>>>>> b1dafc034d9981f59d62973ca36cc80433929378
 <?php
 if(!empty($authUrl)) {
 	echo '<a href="'.$authUrl.'"><img src="'.base_url().'assets/images/flogin.png" alt=""/></a>';
